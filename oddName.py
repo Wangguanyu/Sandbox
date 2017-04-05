@@ -1,6 +1,6 @@
 """
-Wangguanyu
-def greeting(): #function definition
+#Wangguanyu
+def greeting(): 
     print("Hello, how are you?")
 
 """

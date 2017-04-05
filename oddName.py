@@ -1,6 +1,4 @@
 """
-#Wangguanyu
-def greeting(): 
-    print("Hello, how are you?")
-
+Wangguanyu
 """
+print("Hello, how are you?")
